@@ -1,0 +1,17 @@
+
+#particles-js {
+    background-color: #0e0f10;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+.content-holder {
+    top: 40%;
+    left: 35%;
+
+}
+.social-icon {
+    background-color: #111;
+}

@@ -8,10 +8,23 @@
   }
 
 .content-holder {
-    top: 40%;
-    left: 35%;
+    top: 32%;
+    left: 18%;
 
 }
 .social-icon {
     background-color: #111;
+}
+
+.brochure-button {
+    background-color: #45cfdc;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.brochure-button:hover {
+    background-color: #58e0ec;
 }
